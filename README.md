@@ -5,7 +5,7 @@ This is an example repository for using Mackerel plugin helper library for Go.
 https://github.com/mackerelio/go-mackerel-plugin
 
 # Official Document
-[English](https://mackerel.io/docs/entry/advanced/go-mackerel-plugin)
+[English](https://mackerel.io/docs/entry/advanced/go-mackerel-plugin)  
 [日本語](https://mackerel.io/ja/docs/entry/advanced/go-mackerel-plugin)
 
 # License
